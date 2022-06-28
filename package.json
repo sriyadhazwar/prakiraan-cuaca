@@ -1,0 +1,42 @@
+{
+  "name": "prakiraan-cuaca",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "next": "^12.1.6",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sass": "^1.53.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.4"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sriyadhazwar/prakiraan-cuaca.git"
+  },
+  "keywords": [
+    "prakiraan-cuaca"
+  ],
+  "author": "Riyadh S Azwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriyadhazwar/prakiraan-cuaca/issues"
+  },
+  "homepage": "https://github.com/sriyadhazwar/prakiraan-cuaca#readme"
+}
